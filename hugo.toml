@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# hugo.toml
+baseURL = "https://saytim.uz/" # Important for absolute URLs
+languageCode = "uz"
+title = "Qaydlar"
+theme = "PaperMod"
+
+[params]
+    homeInfoParams.Title = "Assalomu alaykum 👋"
+    homeInfoParams.Content = "Bu yerga qanday kelib qoldingiz?"
+    # You can add more PaperMod specific parameters here later

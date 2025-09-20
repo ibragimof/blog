@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ibragimof/blog # <--- IMPORTANT: Replace with your actual GitHub repo!
+  repo: ibragimof/ibragimof.github.io # <--- IMPORTANT: Replace with your actual GitHub repo!
   branch: main # Or master, depending on your default branch
   base_url: https://auth.saytim.uz # This will be set up with Netlify later
   auth_endpoint: /.netlify/functions/auth # This will be set up with Netlify later

@@ -1,7 +1,7 @@
 # hugo.toml
 baseURL = "https://saytim.uz/" # Important for absolute URLs
 languageCode = "uz"
-title = "Qaydlar"
+title = "R"
 theme = "PaperMod"
 
 [params]
